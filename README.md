@@ -16,16 +16,22 @@ Features
 
 Requirements
 
--Python 3.7+
+-Python 3.7+  
+
 -opencv-python
+
 -numpy
 
 How It Works
 
 -Captures a reference frame as background.
+
 -Compares each new frame to the reference to spot changes.
+
 -Applies edge detection and morphological operations to isolate objects.
+
 -Tracks objects that remain stationary for a set number of frames.
+
 -Flags and highlights abandoned objects with a bounding box and label.
 
 
