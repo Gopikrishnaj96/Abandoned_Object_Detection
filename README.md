@@ -11,7 +11,9 @@ Detects and highlights unattended objects in video streams using background subt
 Features
 
 -Real-time detection of abandoned objects
+
 -Visualizes detection pipeline (edge, diff, and final detection)
+
 -Works with video files or live camera input
 
 Requirements
