@@ -1,6 +1,9 @@
 Abandoned Object Detection
 Detects and highlights unattended objects in video streams using background subtraction and temporal tracking.
 
+
+
+
 ![Screenshot 2025-06-06 134151](https://github.com/user-attachments/assets/3b8f28c2-b730-461b-9eba-07da93fec2ef)
 
 Features
