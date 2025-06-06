@@ -15,11 +15,13 @@ Features
 -Works with video files or live camera input
 
 Requirements
+
 -Python 3.7+
 -opencv-python
 -numpy
 
 How It Works
+
 -Captures a reference frame as background.
 -Compares each new frame to the reference to spot changes.
 -Applies edge detection and morphological operations to isolate objects.
